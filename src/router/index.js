@@ -10,7 +10,7 @@ Vue.use(VueRouter)
 const routes = [
  {path:'/',redirect:'/home',component:Index,children:[
   { path:'home', name:'home', component:Home, meta: { title: '我的主页' } },
-
+  
  ]},
  
 
