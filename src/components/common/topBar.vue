@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-    <!-- <p>hello,world</p> -->
+  <div class="topBar-wrap">
+    <p>hello,world</p>
   </div>
 </template>
 
