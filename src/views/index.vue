@@ -2,7 +2,7 @@
   <div class="page">
       <TopBar></TopBar>
       <div class="page-container">
-        <!-- <Sidebar></Sidebar> -->
+        <Sidebar></Sidebar>
         <div class="page-container-content">
             <router-view></router-view>  
         </div>
